@@ -102,9 +102,3 @@ The models successfully generate ship-like images after training, demonstrating:
 ## Results Summary
 
 Both implementations successfully generate ship images from the CIFAR-10 dataset, with the ProGAN mechanism showing improved training stability and image quality progression. The models demonstrate the effectiveness of GANs for conditional image generation tasks.
-
-## References
-
-- Original GAN Paper: `generative_adversarial_network_paper.pdf`
-- ProGAN Paper: `ProGAN_paper.pdf`
-- CycleGAN Paper: `CycleGAN_paper.pdf`
